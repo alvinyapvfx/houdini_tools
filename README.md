@@ -1,5 +1,5 @@
 # houdini_tools
-Alvin Yap's Houdini HDA tools
+Alvin Yap's Houdini HDA tools for Houdini 18.5
 
 A selection of convenience tools I use in my personal work. 
 
