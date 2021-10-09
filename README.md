@@ -12,3 +12,5 @@ SOP Context:
 * FS Frustum Grouper: Uses SDF of the frustum to quickly group geometry.
 * FS Sand Dunes: SOP geometry to create sand-dune like terrain. 
 * FS Project Curl Noise (BETA): Projects curl noise onto any geometry. Requires flow vectors.
+* FS Kill By Attribute: remove points based on id attribute on reference input.
+* FS Find Longest Dimension: Creates detail attributes indicating longest/shorted dimension.
