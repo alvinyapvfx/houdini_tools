@@ -13,6 +13,6 @@ SOP Context:
 * FS Sand Dunes: SOP geometry to create sand-dune like terrain. 
 * FS Project Curl Noise (BETA): Projects curl noise onto any geometry. Requires flow vectors.
 * FS Kill By Attribute: remove points based on id attribute on reference input.
-* FS Find Longest Dimension: Creates detail attributes indicating longest/shorted dimension.
+* FS Find Longest Dimension: Creates detail attributes indicating longest/shortest dimension.
 * FS Clean Attributes: Only keep chosen attributes. Similar functionality for groups.
 * FS Volume Compress: Compresses simulations down for much smaller disk usage.
