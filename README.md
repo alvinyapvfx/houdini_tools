@@ -16,3 +16,4 @@ SOP Context:
 * FS Find Longest Dimension: Creates detail attributes indicating longest/shortest dimension.
 * FS Clean Attributes: Only keep chosen attributes. Similar functionality for groups.
 * FS Volume Compress: Compresses simulations down for much smaller disk usage.
+* FS Cyclorama: Simple cyclorama
